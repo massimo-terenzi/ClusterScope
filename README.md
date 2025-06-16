@@ -7,7 +7,13 @@
 
 > A powerful, interactive web-based tool for visualizing and exploring dimensional reduction results from any machine learning algorithm.
 
-![ClusterScope Demo](https://github.com/massimo-terenzi/ClusterScope/blob/06e145feb1da5cf23398d1a4d8c6bfee0c20e65a/demo-screenshot.png)
+## 📝 Citation
+
+If you use **ClusterScope** in your research or teaching, please cite it as:
+
+Terenzi, M. (2025). *ClusterScope* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15678529
+
+[![DOI](https://zenodo.org/badge/1003260131.svg)](https://doi.org/10.5281/zenodo.15678529)
 
 ## 🚀 Features
 
