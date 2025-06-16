@@ -7,7 +7,7 @@
 
 > A powerful, interactive web-based tool for visualizing and exploring dimensional reduction results from any machine learning algorithm.
 
-## 🌐 **[Try ClusterScope Live!](https://yourusername.github.io/clusterscope/)**
+## 🌐 **[Try ClusterScope Live!](https://massimo-terenzi.github.io/clusterscope/)**
 
 ## 📝 Citation
 
