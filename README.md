@@ -7,7 +7,7 @@
 
 > A powerful, interactive web-based tool for visualizing and exploring dimensional reduction results from any machine learning algorithm.
 
-![ClusterScope Demo](https://via.placeholder.com/800x400/1a73e8/ffffff?text=ClusterScope+Interactive+Visualization)
+![ClusterScope Demo](https://github.com/massimo-terenzi/ClusterScope/blob/06e145feb1da5cf23398d1a4d8c6bfee0c20e65a/demo-screenshot.png)
 
 ## 🚀 Features
 
