@@ -7,13 +7,13 @@
 
 > A powerful, interactive web-based tool for visualizing and exploring dimensional reduction results from any machine learning algorithm.
 
-## 🌐 **[Try ClusterScope Live!](https://massimo-terenzi.github.io/clusterscope/)**
+## 🌐 **[Try ClusterScope Live!](https://massimo-terenzi.github.io/ClusterScope/)**
 
 ## 📝 Citation
 
 If you use **ClusterScope** in your research or teaching, please cite it as:
 
-Terenzi, M. (2025). *ClusterScope: Interactive Cluster Visualization Tool* (Version 1.0) [Computer software]. GitHub. https://github.com/yourusername/clusterscope
+Terenzi, M. (2025). *ClusterScope: Interactive Cluster Visualization Tool* (Version 1.0) [Computer software]. GitHub. https://github.com/yourusername/ClusterScope
 
 ```bibtex
 @software{terenzi2025clusterscope,
@@ -21,7 +21,7 @@ Terenzi, M. (2025). *ClusterScope: Interactive Cluster Visualization Tool* (Vers
   title = {ClusterScope: Interactive Cluster Visualization Tool},
   year = {2025},
   version = {1.0},
-  url = {https://github.com/yourusername/clusterscope},
+  url = {https://github.com/yourusernamescope},
   note = {Computer software}
 }
 ```
@@ -55,13 +55,13 @@ Terenzi, M. (2025). *ClusterScope: Interactive Cluster Visualization Tool* (Vers
 ## 📊 Quick Start
 
 ### Option 1: Use Online (Recommended)
-**[🌐 Open ClusterScope in your browser](https://yourusername.github.io/clusterscope/)**
+**[🌐 Open ClusterScope in your browser](https://yourusername.github.io/ClusterScope/)**
 
 No download required! Just prepare your CSV and start exploring.
 
 ### Option 2: Download Locally
 ```bash
-git clone https://github.com/yourusername/clusterscope.git
+git clone https://github.com/yourusername/ClusterScope.git
 cd clusterscope
 # Open index.html in your browser
 ```
@@ -198,15 +198,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/clusterscope/issues)
-- 💬 **Questions**: [Ask in Discussions](https://github.com/yourusername/clusterscope/discussions)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/ClusterScope/issues)
+- 💬 **Questions**: [Ask in Discussions](https://github.com/yourusername/ClusterScope/discussions)
 
 ---
 
 <div align="center">
 
-**[🌐 Try ClusterScope Live](https://yourusername.github.io/clusterscope/) | Made with ❤️ for the data science community**
+**[🌐 Try ClusterScope Live](https://yourusername.github.io/ClusterScope/) | Made with ❤️ for the data science community**
 
-[⭐ Star this repo](https://github.com/yourusername/clusterscope) | [🍴 Fork it](https://github.com/yourusername/clusterscope/fork) | [📖 Read the docs](https://github.com/yourusername/clusterscope/wiki)
+[⭐ Star this repo](https://github.com/yourusername/clusterscope) | [🍴 Fork it](https://github.com/yourusername/ClusterScope/fork) | [📖 Read the docs](https://github.com/yourusername/ClusterScope/wiki)
 
 </div>
