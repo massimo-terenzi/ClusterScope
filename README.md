@@ -37,7 +37,7 @@
 
 ### 1. Download the Tool
 ```bash
-git clone https://github.com/yourusername/clusterscope.git
+git clone https://github.com/massimo-terenzi/clusterscope.git
 cd clusterscope
 ```
 
