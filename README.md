@@ -7,7 +7,7 @@
 
 > A powerful, interactive web-based tool for visualizing and exploring dimensional reduction results from any machine learning algorithm.
 
-## 🌐 **[🚀 Try ClusterScope Live!](https://yourusername.github.io/clusterscope/)**
+## 🌐 **[Try ClusterScope Live!](https://yourusername.github.io/clusterscope/)**
 
 ## 📝 Citation
 
@@ -26,7 +26,7 @@ Terenzi, M. (2025). *ClusterScope: Interactive Cluster Visualization Tool* (Vers
 }
 ```
 
-[![DOI](https://zenodo.org/badge/1003260131.svg)](https://doi.org/10.5281/zenodo.15678529)a
+[![DOI](https://zenodo.org/badge/1003260131.svg)](https://doi.org/10.5281/zenodo.15678529)
 
 ## 🚀 Features
 
