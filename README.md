@@ -11,7 +11,7 @@
 
 If you use **ClusterScope** in your research or teaching, please cite it as:
 
-Terenzi, M. (2025). *ClusterScope* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.15678529
+Terenzi, M. (2025). *ClusterScope* (Version 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15678529
 
 [![DOI](https://zenodo.org/badge/1003260131.svg)](https://doi.org/10.5281/zenodo.15678529)
 
